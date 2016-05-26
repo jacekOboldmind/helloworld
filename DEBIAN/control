@@ -1,0 +1,7 @@
+Package: helloworld
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: any
+Maintainer: jo jo@boldmind.co.uk
+Description: Hello World
